@@ -31,3 +31,7 @@ Thumbs.db
 .pytest_cache/
 .coverage
 htmlcov/
+
+# Dependencies
+fastapi>=0.111.0
+uvicorn[standard]>=0.29.0
